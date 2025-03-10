@@ -1,0 +1,5 @@
+com/springboot/kafka/wikimedia/config/MongoConfig.class
+com/springboot/kafka/wikimedia/consumer/KafkaWikimediaConsumer.class
+com/springboot/kafka/wikimedia/repository/WikimediaRepository.class
+com/springboot/kafka/wikimedia/entity/Wikimedia.class
+com/springboot/kafka/wikimedia/SpringKafkaWikimediaConsumer.class

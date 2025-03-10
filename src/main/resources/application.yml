@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springboot-kafka-wikimedia
+
+server:
+  port: 8090

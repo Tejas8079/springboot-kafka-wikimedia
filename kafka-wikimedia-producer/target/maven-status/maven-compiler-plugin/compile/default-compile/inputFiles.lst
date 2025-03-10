@@ -1,0 +1,4 @@
+/home/raawan/Downloads/SpringBoot_Projects/springboot-kafka-wikimedia/kafka-wikimedia-producer/src/main/java/com/springboot/kafka/config/KafkaTopicConfig.java
+/home/raawan/Downloads/SpringBoot_Projects/springboot-kafka-wikimedia/kafka-wikimedia-producer/src/main/java/com/springboot/kafka/producer/WikimediaChangeHandler.java
+/home/raawan/Downloads/SpringBoot_Projects/springboot-kafka-wikimedia/kafka-wikimedia-producer/src/main/java/com/springboot/kafka/producer/WikimediaChangesProducer.java
+/home/raawan/Downloads/SpringBoot_Projects/springboot-kafka-wikimedia/kafka-wikimedia-producer/src/main/java/com/springboot/kafka/wikimedia/SpringBootKafkaProducerApplication.java
