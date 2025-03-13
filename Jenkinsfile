@@ -6,6 +6,7 @@ pipeline {
                 sh 'mvn clean'
             }
         }
+
         stage('unit test') {
             steps {
                 sh 'mvn test'
