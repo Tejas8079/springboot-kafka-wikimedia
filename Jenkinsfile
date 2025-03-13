@@ -17,7 +17,6 @@ pipeline {
             steps {
                 sh 'mvn package'
                 sshagent(credentials: [''], ignoreMissing: true) {
-                // some block
                 }
             }
         }
